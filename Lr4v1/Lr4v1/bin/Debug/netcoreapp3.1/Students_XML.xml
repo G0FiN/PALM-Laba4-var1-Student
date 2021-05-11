@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <SurnameAndInitials>Степанець С. С.</SurnameAndInitials>
+    <GroupName> КС - 201</GroupName>
+    <Progres> 3 2 3 4 5</Progres>
+  </Student>
+  <Student>
+    <SurnameAndInitials>Водянов С. О.</SurnameAndInitials>
+    <GroupName> КТ - 20</GroupName>
+    <Progres> 4 5 5 5 5</Progres>
+  </Student>
+  <Student>
+    <SurnameAndInitials>Литвин С. О.</SurnameAndInitials>
+    <GroupName> Кн - 20</GroupName>
+    <Progres> 2 3 2 3 2</Progres>
+  </Student>
+  <Student>
+    <SurnameAndInitials>Петренко Ф. В.</SurnameAndInitials>
+    <GroupName> сКС - 18</GroupName>
+    <Progres> 2 4 4 4 3</Progres>
+  </Student>
+</ArrayOfStudent>

@@ -1,0 +1,25 @@
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.exe
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.deps.json
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.runtimeconfig.json
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.runtimeconfig.dev.json
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.dll
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.pdb
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.csprojAssemblyReference.cache
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.AssemblyInfoInputs.cache
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.AssemblyInfo.cs
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.csproj.CoreCompileInputs.cache
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.dll
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.pdb
+C:/Users/vodpb/Desktop/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.genruntimeconfig.cache
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.deps.json
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.runtimeconfig.json
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.runtimeconfig.dev.json
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.dll
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/bin/Debug/netcoreapp3.1/Lr4v1.pdb
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.csprojAssemblyReference.cache
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.AssemblyInfoInputs.cache
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.AssemblyInfo.cs
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.csproj.CoreCompileInputs.cache
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.dll
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.pdb
+/Users/strawberry/Documents/Универ/ПАЛМ/Лаба 4/Lr4v1/Lr4v1/obj/Debug/netcoreapp3.1/Lr4v1.genruntimeconfig.cache

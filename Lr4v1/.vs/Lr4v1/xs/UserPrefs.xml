@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9B6EE87D-A1F8-454F-AB3E-F5DD09D82DD3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lr4v1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lr4v1/Student.cs">
+    <Files>
+      <File FileName="Lr4v1/Program.cs" Line="42" Column="14" />
+      <File FileName="Lr4v1/Student.cs" Line="72" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
